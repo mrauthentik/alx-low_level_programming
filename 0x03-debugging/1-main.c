@@ -1,5 +1,7 @@
 /**
 * main - causes an infinite loop
+* Description: this code loops through numbers 
+* 
 * Return: 0
 */
 
@@ -11,7 +13,7 @@ int main(void)
 
        	i = 0;
 
-      	/* while (i < 10)*/
+      	/* while(i < 10)
        	/*{*/
        	/*         putchar(i);*/
        	/* }*/
